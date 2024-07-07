@@ -9,6 +9,6 @@ Salut, je m'appel **Zamuel** ou **Samuelaligator** pour les intimes et j'ai cré
 
 ## _Pourquoi y a t'il une faute d'orthographe dans le nom de domaine ?_
 
-Et bien adorant l'informatique quand j'ai réservé le domaine, j'ai eu le réflexe de taper terminale sans E. 🧑‍💻
+Et bien adorant l'informatique, quand j'ai réservé le domaine, j'ai eu le réflexe de taper terminale sans E. 🧑‍💻
 
 
