@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "google", tagId: "G-P8CPPHYB7Q"
     },
     locale: "fr-FR",
     baseUrl: "mathsterminal.com",

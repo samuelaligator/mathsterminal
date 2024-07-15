@@ -7,7 +7,7 @@ $$
 $$
 u_0 \underset{+r}{\longrightarrow} u_1 \underset{+r}{\longrightarrow} u_2 \underset{+r}{\longrightarrow} \cdots \underset{+r}{\longrightarrow} u_{n-1}\underset{+r}{\longrightarrow} u_n \underset{+r}{\longrightarrow} u_{n+1}
 $$
-R = Raison = nombre constant qu'on additionne à chaque termes de la suite arithmétiques
+r = raison = nombre constant qu'on additionne à chaque termes de la suite arithmétiques
 
 ## Calculer Un
 
