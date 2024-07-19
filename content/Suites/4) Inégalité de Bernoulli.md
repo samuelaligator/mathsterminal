@@ -3,12 +3,12 @@ Pour tout réel a > 0, pour tout entier naturel n
 
 On a : $$\boldsymbol{(1+a)^n \geq 1 +na}$$
 
-## Démonstration :
+## Démonstration
 
 [[3) Raisonnement par récurrence|Pour comprendre comment fonctionne un raisonnement par récurrence]]
 
 
-### Initialisation :
+### Initialisation
 On vérifie si la propriété est vraie pour n = 0 
 
 
@@ -19,7 +19,7 @@ $$Or \space 1 \geq 1 \space donc \space (1+a)^0 \geq 1 + 0 \times a$$
 
 La propriété est donc initialisée.
 
-### Hérédité :
+### Hérédité
 
 <p><strong>Hypothèse de récurrence</strong> :<br>
 On suppose que la propriété est vraie au rang  n.</p>
@@ -53,6 +53,6 @@ Comme $$ na²$$ est un nombre positif (n est un entier naturel donc positif & a�
 
 $$ (1 + a)^{n+1} \geq \textcolor{green}{ 1 + (n + 1)a}$$
 
-### Conclusion :
+### Conclusion
 
 La propriété est vraie pour n = 0 et elle est héréditaire à partir de ce rang, elle est donc vraie pour tout entier naturel n.
