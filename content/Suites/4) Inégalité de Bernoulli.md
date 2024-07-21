@@ -5,7 +5,7 @@ On a : $$\boldsymbol{(1+a)^n \geq 1 +na}$$
 
 ## Démonstration
 
-[[3) Raisonnement par récurrence|Pour comprendre comment fonctionne un raisonnement par récurrence]]
+[[3) Raisonnement par récurrence|Lien pour comprendre comment fonctionne un raisonnement par récurrence]]
 
 
 ### Initialisation
@@ -56,3 +56,5 @@ $$ (1 + a)^{n+1} \geq \textcolor{green}{ 1 + (n + 1)a}$$
 ### Conclusion
 
 La propriété est vraie pour n = 0 et elle est héréditaire à partir de ce rang, elle est donc vraie pour tout entier naturel n.
+
+ [[6) Les suites divergentes en l'infini|➡️ Les suites divergentes en l'infini]]

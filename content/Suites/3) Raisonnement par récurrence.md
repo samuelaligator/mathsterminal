@@ -19,3 +19,4 @@ On considère qu'a un certain rend n, Pn soit vraie et on démontre que Pn+1 est
 
 ## Exemple :
 [[4) Inégalité de Bernoulli#Démonstration|Démonstration de l'inégalité de Bernoulli]]
+ 

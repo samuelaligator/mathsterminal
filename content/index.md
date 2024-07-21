@@ -1,4 +1,4 @@
-# Bonjour et bienvenue sur maths terminale
+# Des leçons de maths, par un élève, pour les élèves
 
 Salut, je suis un étudiant en classe de terminale et j'ai créé **maths terminale** dans le but de pouvoir mettre toutes les ressources en rapports avec les mathématiques que je vais trouver sur le net ou en classe pour pouvoir réviser 📚 tout au long de l'année. J'ai mis en ligne ce site pour me faciliter la vie, car je peux y accéder de n'importe où et si d'autres personnes utilisent ce site, je serais content de pouvoir les aider 😉.
 

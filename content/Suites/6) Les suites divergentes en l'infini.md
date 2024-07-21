@@ -1,3 +1,5 @@
+[[5) Les suites convergentes#Définition|Lien pour comprendre les termes convergent et divergent pour les suites]]
+
 ## Définition d'une suite divergente en +l'infini
 
 Une suite tend vers $$+∞$$ lorsque tout intervalle de la forme $$[A; +∞[$$ (avec A > 0) contient tous les termes $$u_n$$ à partir d'un certain rang.

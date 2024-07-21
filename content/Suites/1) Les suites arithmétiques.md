@@ -26,3 +26,6 @@ $$
 $$
 \text{Somme}=\text{(nombre de termes)}\times \dfrac{\text{1er terme + dernier terme}}{2}
 $$
+ [[2) Les suites géométriques|➡️ Les suites géométriques]]
+
+
