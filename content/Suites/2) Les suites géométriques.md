@@ -26,4 +26,3 @@ $$
 $$
 \text{Somme}=\text{(1er terme)} \times \dfrac{1-q^{\text{nombre de termes}}}{1-q}
 $$
- [[3) Raisonnement par récurrence|➡️ Raisonnement par récurrence]]
