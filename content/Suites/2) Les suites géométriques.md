@@ -22,6 +22,11 @@ $$
 $$
 V_n=V_p\times q^{n-p}
 $$
+
+## Démontrer qu'une suite est géométrique
+
+Il faut montrer que $$\dfrac {V_{n + 1}} {V_n}$$ = constante
+
 ## Somme de termes consécutifs
 $$
 \text{Somme}=\text{(1er terme)} \times \dfrac{1-q^{\text{nombre de termes}}}{1-q}

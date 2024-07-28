@@ -22,6 +22,11 @@ $$
 $$
 u_n=u_p+(n-p)r
 $$
+## Démontrer qu'une suite est arithmétiques
+
+Il faut montrer que $$u_{n + 1} - u_n$$ = constante
+
+
 ## Somme de termes consécutifs
 $$
 \text{Somme}=\text{(nombre de termes)}\times \dfrac{\text{1er terme + dernier terme}}{2}
