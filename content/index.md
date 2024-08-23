@@ -14,3 +14,4 @@ Salut, je suis un étudiant en classe de terminale et j'ai créé **maths termin
 > 
 >  Et bien adorant l'informatique, quand j'ai réservé le domaine, j'ai eu le réflexe de taper terminale sans E. 🧑‍💻
 
+![[maths.webp]]
