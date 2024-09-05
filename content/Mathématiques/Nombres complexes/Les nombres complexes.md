@@ -21,4 +21,6 @@ On appelle nombre complexe conjugué de $$z$$ le nombre $$\bar z = a - ib$$
 
 ![[complexe_conjugué.png]]
 
-Le point $$M'$$d'affixe $$\bar z$$ est le symétrique du point $$M$$ d'affixe $$z$$ par rapport à l'axe des abscissesv
+Le point $$M'$$d'affixe $$\bar z$$ est le symétrique du point $$M$$ d'affixe $$z$$ par rapport à l'axe des abscisses v
+
+![[RB-05_09_2024(1).jpg]]![[RB-05_09_2024(3).jpg]]

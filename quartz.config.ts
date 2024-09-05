@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "💯 Maths Terminale",
+    pageTitle: "(Maths) Terminale",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
